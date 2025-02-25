@@ -1,16 +1,28 @@
-## Hi there 👋
+# 💫 About Me:
+I'm Nandigama Kartikeya, a final-year Computer Science and Engineering (CSE) undergraduate specializing in Artificial Intelligence and Machine Learning at Vasireddy Venkatadri Institute of Technology (VVIT). Passionate about building real-world applications, I focus on AI-driven solutions, web development, and community service projects. 🚀
 
-<!--
-**nandigamakarti/nandigamakarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Current Projects:
+- 🌾 **Farmers Management System:** Empowering farmers with AI-based crop recommendations, yield prediction, disease prevention, and an integrated e-commerce platform.
+- 🌿 **Virtual Herbal Garden:** An interactive platform showcasing medicinal plants used in AYUSH with ML-powered plant identification and drug recommendation features.
+- 👩‍⚕️ **Maternal and Child Health Project:** Leveraging AI predictive analytics to reduce maternal and infant mortality through high-risk pregnancy monitoring and mobile health clinics.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FFCC00?style=for-the-badge&logo=rapidminer&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📈 GitHub Stats:
+![Nandigama Kartikeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandigamakarti&show_icons=true&theme=radical)
+
+# 📫 Connect with Me:
+- 📧 Email: nandigamakarti@gmail.com
+- 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nandigamakartikeya/)
+- 📱 Phone: +91 9014938269
+
+Thanks for stopping by! 🚀✨
