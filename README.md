@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm Nandigama Kartikeya, a final-year Computer Science and Engineering (CSE) undergraduate specializing in Artificial Intelligence and Machine Learning at Vasireddy Venkatadri Institute of Technology (VVIT). Passionate about building real-world applications, I focus on AI-driven solutions, web development, and community service projects. 🚀
 
+<div align="center">
+  <img src="https://datascientest.com/en/files/2024/06/AI-cybersecurity-datascientest-1024x585.jpg" alt="AI Cybersecurity" width="400" height="250" style="margin-right: 10px;"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQHKuu2p65OM8w/article-cover_image-shrink_720_1280/0/1698066424752?e=2147483647&v=beta&t=7qhojdbK3WYHJyl6Vdrp3JMQbGbJVfjDbYcnCqh7Evw" alt="Cybersecurity Cover" width="400" height="250"/>
+</div>
+
+
 # 🌱 Current Projects:
 - 🌾 **Farmers Management System:** Empowering farmers with AI-based crop recommendations, yield prediction, disease prevention, and an integrated e-commerce platform.
 - 🌿 **Virtual Herbal Garden:** An interactive platform showcasing medicinal plants used in AYUSH with ML-powered plant identification and drug recommendation features.
