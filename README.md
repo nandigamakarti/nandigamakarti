@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nandigama Kartikeya, a final-year Computer Science and Engineering (CSE) undergraduate specializing in Artificial Intelligence and Machine Learning at Vasireddy Venkatadri Institute of Technology (VVIT). Passionate about building real-world applications, I focus on AI-driven solutions, web development, and community service projects. 🚀
+I am Nandigama Kartikeya, a Computer Science and Engineering (CSE) graduate specializing in Artificial Intelligence and Machine Learning from Vasireddy Venkatadri Institute of Technology (VVIT). Passionate about building real-world applications, I focus on AI-driven solutions, web development, and impactful community projects. 🚀
 
 <div align="center">
   <img src="https://datascientest.com/en/files/2024/06/AI-cybersecurity-datascientest-1024x585.jpg" alt="AI Cybersecurity" width="400" height="250" style="margin-right: 10px;"/>
@@ -8,9 +8,11 @@ I'm Nandigama Kartikeya, a final-year Computer Science and Engineering (CSE) und
 
 
 # 🌱 Current Projects:
+- 💬 **Slack Clone:** A real-time chat application with features like channels, direct messages, file sharing, and AI-powered org memory & instant-reply capabilities.
 - 🌾 **Farmers Management System:** Empowering farmers with AI-based crop recommendations, yield prediction, disease prevention, and an integrated e-commerce platform.
 - 🌿 **Virtual Herbal Garden:** An interactive platform showcasing medicinal plants used in AYUSH with ML-powered plant identification and drug recommendation features.
-- 👩‍⚕️ **Maternal and Child Health Project:** Leveraging AI predictive analytics to reduce maternal and infant mortality through high-risk pregnancy monitoring and mobile health clinics.
+- 🖥️ **Windows 7 Pentest (Lab)**: Security assessment and hardening exercises on a controlled Windows 7 lab environment — vulnerability discovery, patching strategies, and defensive recommendations.
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
