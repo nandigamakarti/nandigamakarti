@@ -3,6 +3,9 @@
 
 ---
 
+
+![futuristic-scene-with-high-tech-robot-used-construction-industry](https://github.com/user-attachments/assets/fac25a31-6208-443c-910b-2a4b4ba5d130)
+
 ## 🚀 About Me  
 I am a recent B.Tech (CSE – AI/ML) graduate from Vasireddy Venkatadri Institute of Technology (VVIT), with a passion for building intelligent, scalable, and secure systems. My core interests lie at the intersection of **Artificial Intelligence**, **Cloud Computing**, and **Cybersecurity**. I thrive on learning new technologies, solving real-world problems, and translating ideas into impactful solutions.
 
